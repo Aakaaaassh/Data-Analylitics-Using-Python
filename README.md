@@ -6,5 +6,6 @@ The Assignment is given below:
 4.) Give a data set which has all the open == low values.
 5.) Make a 20 day SMA (Simple Moving Average) on the full Data.
 
-I have written a code in python to fulfill the assignment which reads the dataset from data.xlsx file and after the code is executed a new assignment.xlsx file will be generated along with the data in it and a 20 day SMA graph will be saved
-i am attaching the final code as well jupyter file with input and output.
+I have written a code in python and used Pandas Library to fulfill the assignment which reads the dataset from data.xlsx file and after the code is executed a new assignments.xlsx file will be generated along with the data in it and a 20 day SMA graph will be saved.
+
+I am attaching the final code as well jupyter file along with dataset,assignment and 20 SMA graph.
